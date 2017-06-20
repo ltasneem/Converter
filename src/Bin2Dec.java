@@ -1,3 +1,4 @@
+//https://blog.sterlingbusinessadvantage.com/2016/10/25/let-python-do-all-the-work-of-creating-a-github-repository/
 import java.util.Scanner;
 
 public class Bin2Dec {
@@ -22,6 +23,10 @@ public class Bin2Dec {
 		}
 		
 		System.out.println("The decimal value of "+ binary+ " is "+ sum);
+		
+		//fixing bubble sort
+		
+		
 		 
 
 	}
